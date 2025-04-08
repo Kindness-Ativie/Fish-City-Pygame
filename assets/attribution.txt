@@ -1,0 +1,13 @@
+When sourcing game art, it's important to attribute art!
+
+
+# Fonts
+Storyboo.TTF = https://www.dafont.com/storybook.font
+LLPIXEL3.ttf = https://www.dafont.com/llpixel.font
+
+# Images
+clown-fish.png = <a href="https://www.flaticon.com/free-icons/ocean" title="ocean icons">Ocean icons created by Freepik - Flaticon</a>
+fish-bone.png = <a href="https://www.flaticon.com/free-icons/fish-bone" title="fish bone icons">Fish bone icons created by Freepik - Flaticon</a>
+lightning_strike.png = <a href="https://www.flaticon.com/free-icons/thunder" title="thunder icons">Thunder icons created by Freepik - Flaticon</a>
+pixel_star.png = <a href="https://www.flaticon.com/free-icons/star" title="star icons">Star icons created by Freepik - Flaticon</a>
+neon_city.jpg = https://www.freepik.com/free-vector/background-with-night-city-neon-lights_3586822.htm#fromView=search&page=80&position=27&uuid=36169323-0c10-4c2c-9f03-e74fd08c6097
